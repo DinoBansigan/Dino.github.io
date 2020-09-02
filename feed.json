@@ -7,6 +7,163 @@
 	"items": [
 		
 			{
+				"id": "http://Dino.micro.blog/2020/09/01/im-enjoying-the.html",
+				
+				"content_html": "<p>I’m enjoying the 1940s style episode on Season 5 of <a href=\"https://www.netflix.com/title/80057918\">Lucifer</a>. They have the music and camera shots nailed it seems. The lines are oddly refreshing, if not a bit funny for the modern age. 📺</p>\n",
+				"content_text": "I’m enjoying the 1940s style episode on Season 5 of [Lucifer](https://www.netflix.com/title/80057918). They have the music and camera shots nailed it seems. The lines are oddly refreshing, if not a bit funny for the modern age. 📺\n",
+				"date_published": "2020-09-01T19:21:19-05:00",
+				"url": "https://microjournal.dinobansigan.com/2020/09/01/im-enjoying-the.html"
+			},
+			{
+				"id": "http://Dino.micro.blog/2020/08/31/brotherly-love-day.html",
+				
+				"content_html": "<p>Brotherly <strong>love</strong></p>\n\n<p><em>Day 31 of the Micro.blog August Photoblogging Challenge</em> 📷 #mbaug</p>\n\n<p><a href=\"https://microjournal.dinobansigan.com/uploads/2020/e9612ffaae.jpg\"><img src=\"uploads/2020/e9612ffaae.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Brotherly **love**\n\n*Day 31 of the Micro.blog August Photoblogging Challenge* 📷 #mbaug\n\n<a href=\"https://microjournal.dinobansigan.com/uploads/2020/e9612ffaae.jpg\"><img src=\"uploads/2020/e9612ffaae.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-08-31T20:11:52-05:00",
+				"url": "https://microjournal.dinobansigan.com/2020/08/31/brotherly-love-day.html",
+				"tags": ["Photoblogging Challenge"]
+			},
+			{
+				"id": "http://Dino.micro.blog/2020/08/31/how-to-add.html",
+				"title": "How To Add Hyvor Talk Comments to Micro.blog-hosted Blog",
+				"content_html": "<p>I&rsquo;ve been looking for a way to add comments to this blog. It&rsquo;s specifically for my friends who don&rsquo;t have a Micro.blog account. I saw someone mention Hyvor Talk back when I just joined Micro.blog. I thought I&rsquo;d give it a try. It turns out to be relatively easy to install. You&rsquo;ll need to be using a <a href=\"https://help.micro.blog/2019/about-themes/\">custom theme</a> to do this. I used the <a href=\"https://help.micro.blog/2019/disqus/\">instructions to add Disqus comments</a> as reference.</p>\n\n<p>First step is to add canonical tags to the blog. I modified <strong><code>layouts/partials/head.html</code></strong> and added a canonical tag just above the css link tags. I tried to copy the code itself here, but I keep running into issues with Hugo not wanting to show it. So, you&rsquo;ll get a picture instead.<br />\n<img src=\"uploads/2020/c0555eed08.png\" width=\"231\" height=\"173\" alt=\"\" /></p>\n\n<p>Next step is to sign-up for <a href=\"https://talk.hyvor.com/\">Hyvor Talk</a>. Choose &ldquo;Manual Installation&rdquo;. Copy the code/script that they provide and paste it inside <strong><code>layouts/post/single.html</code></strong> just before the last <strong><code>&#123;&#123; end }}</code></strong> at the bottom of the file.</p>\n\n<p>And that&rsquo;s it.</p>\n",
+				"content_text": "I've been looking for a way to add comments to this blog. It's specifically for my friends who don't have a Micro.blog account. I saw someone mention Hyvor Talk back when I just joined Micro.blog. I thought I'd give it a try. It turns out to be relatively easy to install. You'll need to be using a [custom theme](https://help.micro.blog/2019/about-themes/) to do this. I used the [instructions to add Disqus comments](https://help.micro.blog/2019/disqus/) as reference. \n\nFirst step is to add canonical tags to the blog. I modified <strong><code>layouts/partials/head.html</code></strong> and added a canonical tag just above the css link tags. I tried to copy the code itself here, but I keep running into issues with Hugo not wanting to show it. So, you'll get a picture instead.  \n<img src=\"uploads/2020/c0555eed08.png\" width=\"231\" height=\"173\" alt=\"\" />\n\nNext step is to sign-up for [Hyvor Talk](https://talk.hyvor.com/). Choose \"Manual Installation\". Copy the code/script that they provide and paste it inside <strong><code>layouts/post/single.html</code></strong> just before the last <strong><code>&#123;&#123; end }}</code></strong> at the bottom of the file.\n\nAnd that's it. \n",
+				"date_published": "2020-08-31T20:03:00-05:00",
+				"url": "https://microjournal.dinobansigan.com/2020/08/31/how-to-add.html",
+				"tags": ["Meta"]
+			},
+			{
+				"id": "http://Dino.micro.blog/2020/08/30/discovery-day-of.html",
+				
+				"content_html": "<p><strong>Discovery</strong></p>\n\n<p><em>Day 30 of the Micro.blog August Photoblogging Challenge</em> 📷 #mbaug</p>\n\n<p><a href=\"https://microjournal.dinobansigan.com/uploads/2020/5d709eaa42.jpg\"><img src=\"uploads/2020/5d709eaa42.jpg\" width=\"600\" height=\"548\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://microjournal.dinobansigan.com/uploads/2020/3d3db9ce58.jpg\"><img src=\"uploads/2020/3d3db9ce58.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "**Discovery**\n\n*Day 30 of the Micro.blog August Photoblogging Challenge* 📷 #mbaug\n\n<a href=\"https://microjournal.dinobansigan.com/uploads/2020/5d709eaa42.jpg\"><img src=\"uploads/2020/5d709eaa42.jpg\" width=\"600\" height=\"548\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://microjournal.dinobansigan.com/uploads/2020/3d3db9ce58.jpg\"><img src=\"uploads/2020/3d3db9ce58.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-08-30T22:38:50-05:00",
+				"url": "https://microjournal.dinobansigan.com/2020/08/30/discovery-day-of.html",
+				"tags": ["Photoblogging Challenge"]
+			},
+			{
+				"id": "http://Dino.micro.blog/2020/08/30/kristaps-porzingis-out.html",
+				
+				"content_html": "<p><a href=\"https://www.nba.com/article/2020/08/28/mavericks-kristaps-porzingis-out-right-knee-meniscus-tear\">Kristaps Porzingis out of first-round series with torn meniscus in right knee</a> - maybe the Mavs should bench Luka too for the remainder of the series? I would rather they stay healthy for more seasons to come&hellip; 🏀</p>\n",
+				"content_text": "[Kristaps Porzingis out of first-round series with torn meniscus in right knee](https://www.nba.com/article/2020/08/28/mavericks-kristaps-porzingis-out-right-knee-meniscus-tear) - maybe the Mavs should bench Luka too for the remainder of the series? I would rather they stay healthy for more seasons to come... 🏀\n",
+				"date_published": "2020-08-30T01:38:57-05:00",
+				"url": "https://microjournal.dinobansigan.com/2020/08/30/kristaps-porzingis-out.html",
+				"tags": ["Sports"]
+			},
+			{
+				"id": "http://Dino.micro.blog/2020/08/30/me-and-the.html",
+				
+				"content_html": "<p>Me and the wife finally finished watching Season 2 of <a href=\"https://www.netflix.com/TITLE/80238357\">The Order</a>. Wow. I’m at a loss for words. Overall, that season was really good. Better than season 1 even.  But damn that ending&hellip; I really hope they make a third season. 📺</p>\n",
+				"content_text": "Me and the wife finally finished watching Season 2 of [The Order](https://www.netflix.com/TITLE/80238357). Wow. I’m at a loss for words. Overall, that season was really good. Better than season 1 even.  But damn that ending... I really hope they make a third season. 📺\n",
+				"date_published": "2020-08-30T01:28:32-05:00",
+				"url": "https://microjournal.dinobansigan.com/2020/08/30/me-and-the.html"
+			},
+			{
+				"id": "http://Dino.micro.blog/2020/08/29/snowflake-day-of.html",
+				
+				"content_html": "<p>Snow<strong>flake</strong></p>\n\n<p><em>Day 29 of the Micro.blog August Photoblogging Challenge</em> 📷 #mbaug</p>\n\n<p><a href=\"https://microjournal.dinobansigan.com/uploads/2020/4c9581c124.jpg\"><img src=\"uploads/2020/4c9581c124.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Snow**flake**\n\n*Day 29 of the Micro.blog August Photoblogging Challenge* 📷 #mbaug\n\n<a href=\"https://microjournal.dinobansigan.com/uploads/2020/4c9581c124.jpg\"><img src=\"uploads/2020/4c9581c124.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-08-29T18:51:38-05:00",
+				"url": "https://microjournal.dinobansigan.com/2020/08/29/snowflake-day-of.html",
+				"tags": ["Photoblogging Challenge"]
+			},
+			{
+				"id": "http://Dino.micro.blog/2020/08/29/i-dont-remember.html",
+				
+				"content_html": "<p>I don’t remember what outpost I docked on. But that view of the blue planet is nice. 🎮</p>\n\n<p><a href=\"https://microjournal.dinobansigan.com/uploads/2020/463003a23d.jpg\"><img src=\"uploads/2020/463003a23d.jpg\" width=\"600\" height=\"337\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://microjournal.dinobansigan.com/uploads/2020/0f882e40d8.jpg\"><img src=\"uploads/2020/0f882e40d8.jpg\" width=\"600\" height=\"337\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "I don’t remember what outpost I docked on. But that view of the blue planet is nice. 🎮\n\n<a href=\"https://microjournal.dinobansigan.com/uploads/2020/463003a23d.jpg\"><img src=\"uploads/2020/463003a23d.jpg\" width=\"600\" height=\"337\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://microjournal.dinobansigan.com/uploads/2020/0f882e40d8.jpg\"><img src=\"uploads/2020/0f882e40d8.jpg\" width=\"600\" height=\"337\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-08-29T12:57:03-05:00",
+				"url": "https://microjournal.dinobansigan.com/2020/08/29/i-dont-remember.html"
+			},
+			{
+				"id": "http://Dino.micro.blog/2020/08/28/so-much-emotions.html",
+				
+				"content_html": "<p>So much <strong>emotions</strong> on one of the best days of my life.</p>\n\n<p><em>Day 28 of the Micro.blog August Photoblogging Challenge</em> 📷 #mbaug</p>\n\n<p><a href=\"https://microjournal.dinobansigan.com/uploads/2020/4fa25ce733.jpg\"><img src=\"uploads/2020/4fa25ce733.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "So much **emotions** on one of the best days of my life.\n\n*Day 28 of the Micro.blog August Photoblogging Challenge* 📷 #mbaug\n\n<a href=\"https://microjournal.dinobansigan.com/uploads/2020/4fa25ce733.jpg\"><img src=\"uploads/2020/4fa25ce733.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-08-28T13:19:36-05:00",
+				"url": "https://microjournal.dinobansigan.com/2020/08/28/so-much-emotions.html",
+				"tags": ["Photoblogging Challenge"]
+			},
+			{
+				"id": "http://Dino.micro.blog/2020/08/28/last-day-working.html",
+				
+				"content_html": "<p>Last day working at the office this week. Then it’s back to working from home for two weeks straight, yay.</p>\n\n<p><a href=\"https://microjournal.dinobansigan.com/uploads/2020/528003d912.jpg\"><img src=\"uploads/2020/528003d912.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Last day working at the office this week. Then it’s back to working from home for two weeks straight, yay.\n\n<a href=\"https://microjournal.dinobansigan.com/uploads/2020/528003d912.jpg\"><img src=\"uploads/2020/528003d912.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-08-28T13:04:41-05:00",
+				"url": "https://microjournal.dinobansigan.com/2020/08/28/last-day-working.html"
+			},
+			{
+				"id": "http://Dino.micro.blog/2020/08/27/currently-reading-hardwiring.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/0385347316\">Hardwiring happiness</a> by Hanson, Rick (Psychologist) 📚</p>\n",
+				"content_text": "Currently reading: [Hardwiring happiness](https://micro.blog/books/0385347316) by Hanson, Rick (Psychologist) 📚\n",
+				"date_published": "2020-08-27T22:54:32-05:00",
+				"url": "https://microjournal.dinobansigan.com/2020/08/27/currently-reading-hardwiring.html",
+				"tags": ["Books and Reading"]
+			},
+			{
+				"id": "http://Dino.micro.blog/2020/08/27/it-may-hurt.html",
+				
+				"content_html": "<blockquote>\n<p>It may hurt some feelings. It may turn people off. It may take hard work. But the more you say no to the things that don’t matter, the more you can say yes to the things that do. This will let you live and enjoy the life that you want.<br />\n~ <a href=\"https://ryanholiday.net/best-week/\">How to Have the Best Week Ever</a> by Ryan Holiday</p>\n</blockquote>\n",
+				"content_text": "> It may hurt some feelings. It may turn people off. It may take hard work. But the more you say no to the things that don’t matter, the more you can say yes to the things that do. This will let you live and enjoy the life that you want.  \n~ [How to Have the Best Week Ever](https://ryanholiday.net/best-week/) by Ryan Holiday\n",
+				"date_published": "2020-08-27T13:11:00-05:00",
+				"url": "https://microjournal.dinobansigan.com/2020/08/27/it-may-hurt.html",
+				"tags": ["Bookmarks and Quotes"]
+			},
+			{
+				"id": "http://Dino.micro.blog/2020/08/27/hard-to-overcome.html",
+				
+				"content_html": "<p>Hard to <strong>overcome</strong> this bad boy.</p>\n\n<p><em>Day 27 of the Micro.blog August Photoblogging Challenge</em> 📷 #mbaug</p>\n\n<p><a href=\"https://microjournal.dinobansigan.com/uploads/2020/2a7f9416ff.jpg\"><img src=\"uploads/2020/2a7f9416ff.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Hard to **overcome** this bad boy.\n\n*Day 27 of the Micro.blog August Photoblogging Challenge* 📷 #mbaug\n\n<a href=\"https://microjournal.dinobansigan.com/uploads/2020/2a7f9416ff.jpg\"><img src=\"uploads/2020/2a7f9416ff.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-08-27T12:56:20-05:00",
+				"url": "https://microjournal.dinobansigan.com/2020/08/27/hard-to-overcome.html",
+				"tags": ["Photoblogging Challenge"]
+			},
+			{
+				"id": "http://Dino.micro.blog/2020/08/27/if-we-love.html",
+				
+				"content_html": "<blockquote>\n<p>If we love others first, we will not have to spend time worrying if they like us.</p>\n\n<p>Because it doesn’t matter. We already love them anyway.<br />\n~ <a href=\"https://rebeccatoh.co/love-first/\">Love first</a> by Rebecca Toh</p>\n</blockquote>\n",
+				"content_text": "> If we love others first, we will not have to spend time worrying if they like us.\r\n\r\n> Because it doesn’t matter. We already love them anyway.  \r\n~ [Love first](https://rebeccatoh.co/love-first/) by Rebecca Toh\r\n",
+				"date_published": "2020-08-27T11:57:53-05:00",
+				"url": "https://microjournal.dinobansigan.com/2020/08/27/if-we-love.html",
+				"tags": ["Bookmarks and Quotes"]
+			},
+			{
+				"id": "http://Dino.micro.blog/2020/08/26/as-soon-as.html",
+				
+				"content_html": "<p>As soon as Davin started walking, he was <strong>relentless</strong>. Even after a bike ride, he would still want to walk around.</p>\n\n<p><em>Day 26 of the Micro.blog August Photoblogging Challenge</em> 📷 #mbaug</p>\n\n<p><a href=\"https://microjournal.dinobansigan.com/uploads/2020/22f6472818.jpg\"><img src=\"uploads/2020/22f6472818.jpg\" width=\"600\" height=\"567\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "As soon as Davin started walking, he was **relentless**. Even after a bike ride, he would still want to walk around.\n\n*Day 26 of the Micro.blog August Photoblogging Challenge* 📷 #mbaug\n\n<a href=\"https://microjournal.dinobansigan.com/uploads/2020/22f6472818.jpg\"><img src=\"uploads/2020/22f6472818.jpg\" width=\"600\" height=\"567\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-08-26T21:05:03-05:00",
+				"url": "https://microjournal.dinobansigan.com/2020/08/26/as-soon-as.html",
+				"tags": ["Photoblogging Challenge"]
+			},
+			{
+				"id": "http://Dino.micro.blog/2020/08/26/114525.html",
+				
+				"content_html": "<p><a href=\"https://microjournal.dinobansigan.com/uploads/2020/78eaf38ae5.jpg\"><img src=\"uploads/2020/78eaf38ae5.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "\n\n<a href=\"https://microjournal.dinobansigan.com/uploads/2020/78eaf38ae5.jpg\"><img src=\"uploads/2020/78eaf38ae5.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-08-26T11:45:25-05:00",
+				"url": "https://microjournal.dinobansigan.com/2020/08/26/114525.html"
+			},
+			{
+				"id": "http://Dino.micro.blog/2020/08/25/i-expected-the.html",
+				
+				"content_html": "<p>I expected the Clippers to come out with a vengeance and they did. Even Paul George seems to have found himself once again. This is going to be a tough game for the Mavs.</p>\n\n<p>Btw, the Nuggets kept their playoffs hopes alive. Jamal Murray was unstoppable in the 4th quarter. 🏀</p>\n",
+				"content_text": "I expected the Clippers to come out with a vengeance and they did. Even Paul George seems to have found himself once again. This is going to be a tough game for the Mavs. \n\nBtw, the Nuggets kept their playoffs hopes alive. Jamal Murray was unstoppable in the 4th quarter. 🏀\n",
+				"date_published": "2020-08-25T20:55:00-05:00",
+				"url": "https://microjournal.dinobansigan.com/2020/08/25/i-expected-the.html",
+				"tags": ["Sports"]
+			},
+			{
+				"id": "http://Dino.micro.blog/2020/08/25/to-summarize-in.html",
+				
+				"content_html": "<blockquote>\n<p>To summarize, in my proposed scheme, you engage with the world of digital information only twice a day: once in the morning, and (perhaps) once in the evening. Outside these brief moments of anxious consumption, you focus instead on living well.<br />\n~ <a href=\"https://www.calnewport.com/blog/2020/08/25/focus-week-give-your-brain-some-breathing-room/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+StudyHacks+%28Study+Hacks%29\">Focus Week: Give Your Brain Some Breathing Room</a> by Cal Newport</p>\n</blockquote>\n",
+				"content_text": "> To summarize, in my proposed scheme, you engage with the world of digital information only twice a day: once in the morning, and (perhaps) once in the evening. Outside these brief moments of anxious consumption, you focus instead on living well.  \r\n~ [Focus Week: Give Your Brain Some Breathing Room](https://www.calnewport.com/blog/2020/08/25/focus-week-give-your-brain-some-breathing-room/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+StudyHacks+%28Study+Hacks%29) by Cal Newport\n",
+				"date_published": "2020-08-25T16:40:10-05:00",
+				"url": "https://microjournal.dinobansigan.com/2020/08/25/to-summarize-in.html",
+				"tags": ["Bookmarks and Quotes"]
+			},
+			{
 				"id": "http://Dino.micro.blog/2020/08/25/in-fact-reading.html",
 				
 				"content_html": "<blockquote>\n<p>In fact, reading books is considered a cognitive ‘reserve building’ activity that could help to protect you from Alzheimer’s and related illnesses.<br />\n~ <a href=\"https://psyche.co/guides/how-to-make-a-daily-habit-of-reading-more-books?utm_source=Aeon+Newsletter&amp;utm_campaign=72d13368cc-EMAIL_CAMPAIGN_2020_07_30_07_31&amp;utm_medium=email&amp;utm_term=0_411a82e59d-72d13368cc-70852215\">How to read more books</a> by Christian Jarrett</p>\n</blockquote>\n\n<p>First time I&rsquo;ve heard that. So, reading books can help stave off Alzheimer’s.</p>\n",
@@ -56,7 +213,8 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780316274180\">The Light of All That Falls</a> by James Islington 📚</p>\n",
 				"content_text": "Currently reading: [The Light of All That Falls](https://micro.blog/books/9780316274180) by James Islington 📚\n",
 				"date_published": "2020-08-24T22:45:02-05:00",
-				"url": "https://microjournal.dinobansigan.com/2020/08/24/currently-reading-the.html"
+				"url": "https://microjournal.dinobansigan.com/2020/08/24/currently-reading-the.html",
+				"tags": ["Books and Reading"]
 			},
 			{
 				"id": "http://Dino.micro.blog/2020/08/24/ive-been-watching.html",
@@ -195,7 +353,8 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780316274180\">The Light of All That Falls</a> by James Islington 📚</p>\n",
 				"content_text": "Currently reading: [The Light of All That Falls](https://micro.blog/books/9780316274180) by James Islington 📚\n",
 				"date_published": "2020-08-21T21:04:35-05:00",
-				"url": "https://microjournal.dinobansigan.com/2020/08/21/currently-reading-the.html"
+				"url": "https://microjournal.dinobansigan.com/2020/08/21/currently-reading-the.html",
+				"tags": ["Books and Reading"]
 			},
 			{
 				"id": "http://Dino.micro.blog/2020/08/21/theres-a-familiar.html",
@@ -317,7 +476,8 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780316274180\">The Light of All That Falls</a> by James Islington 📚</p>\n",
 				"content_text": "Currently reading: [The Light of All That Falls](https://micro.blog/books/9780316274180) by James Islington 📚\n",
 				"date_published": "2020-08-18T17:40:58-05:00",
-				"url": "https://microjournal.dinobansigan.com/2020/08/18/currently-reading-the.html"
+				"url": "https://microjournal.dinobansigan.com/2020/08/18/currently-reading-the.html",
+				"tags": ["Books and Reading"]
 			},
 			{
 				"id": "http://Dino.micro.blog/2020/08/18/a-grid-of.html",
@@ -648,7 +808,8 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780316274180\">The Light of All That Falls</a> by James Islington 📚</p>\n",
 				"content_text": "Currently reading: [The Light of All That Falls](https://micro.blog/books/9780316274180) by James Islington 📚\n",
 				"date_published": "2020-08-07T19:50:31-05:00",
-				"url": "https://microjournal.dinobansigan.com/2020/08/07/currently-reading-the.html"
+				"url": "https://microjournal.dinobansigan.com/2020/08/07/currently-reading-the.html",
+				"tags": ["Books and Reading"]
 			},
 			{
 				"id": "http://Dino.micro.blog/2020/08/07/from-a-few.html",
@@ -699,8 +860,7 @@
 				"content_html": "<p>Was about to belt out the chorus for the song <a href=\"https://open.spotify.com/track/73HWH7cgqKwk5v4nB4dEzL?si=PHC2RzNGQRKWAAdgBNBDpA\">Remember Everything by Five Finger Death Punch</a>, when I realized that I am not working from home&hellip; I am at the office. 😄🎵</p>\n",
 				"content_text": "Was about to belt out the chorus for the song [Remember Everything by Five Finger Death Punch](https://open.spotify.com/track/73HWH7cgqKwk5v4nB4dEzL?si=PHC2RzNGQRKWAAdgBNBDpA), when I realized that I am not working from home... I am at the office. 😄🎵\n",
 				"date_published": "2020-08-04T14:46:00-05:00",
-				"url": "https://microjournal.dinobansigan.com/2020/08/04/was-about-to.html",
-				"tags": ["Music"]
+				"url": "https://microjournal.dinobansigan.com/2020/08/04/was-about-to.html"
 			},
 			{
 				"id": "http://Dino.micro.blog/2020/08/04/saying-a-prayer.html",
@@ -812,7 +972,8 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780316274180\">The Light of All That Falls</a> by James Islington 📚</p>\n",
 				"content_text": "Currently reading: [The Light of All That Falls](https://micro.blog/books/9780316274180) by James Islington 📚\n",
 				"date_published": "2020-07-31T19:36:58-05:00",
-				"url": "https://microjournal.dinobansigan.com/2020/07/31/currently-reading-the.html"
+				"url": "https://microjournal.dinobansigan.com/2020/07/31/currently-reading-the.html",
+				"tags": ["Books and Reading"]
 			},
 			{
 				"id": "http://Dino.micro.blog/2020/07/31/latest-music-log.html",
@@ -854,7 +1015,8 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/0544963407\">Baby-Led Feeding</a> by Jenna Helwig 📚</p>\n",
 				"content_text": "Currently reading: [Baby-Led Feeding](https://micro.blog/books/0544963407) by Jenna Helwig 📚\n",
 				"date_published": "2020-07-30T22:14:16-05:00",
-				"url": "https://microjournal.dinobansigan.com/2020/07/30/currently-reading-babyled.html"
+				"url": "https://microjournal.dinobansigan.com/2020/07/30/currently-reading-babyled.html",
+				"tags": ["Books and Reading"]
 			},
 			{
 				"id": "http://Dino.micro.blog/2020/07/30/the-nba-is.html",
@@ -887,7 +1049,8 @@
 				"content_html": "<p>Currently reading: The Light Of All That Falls by James Islington 📚</p>\n",
 				"content_text": "Currently reading: The Light Of All That Falls by James Islington 📚\n",
 				"date_published": "2020-07-29T14:12:40-05:00",
-				"url": "https://microjournal.dinobansigan.com/2020/07/29/currently-reading-the.html"
+				"url": "https://microjournal.dinobansigan.com/2020/07/29/currently-reading-the.html",
+				"tags": ["Books and Reading"]
 			},
 			{
 				"id": "http://Dino.micro.blog/2020/07/29/one-more-day.html",
