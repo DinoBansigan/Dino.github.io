@@ -1,3 +1,3 @@
 # Dino.github.io
 
-This is a backup of my micro journal found at [https://microjournal.dinobansigan.com/](https://microjournal.dinobansigan.com/).
+This is a backup of my micro blog found at [https://micro.dinobansigan.com/](https://micro.dinobansigan.com/).
